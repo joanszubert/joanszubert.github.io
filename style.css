@@ -1,0 +1,66 @@
+/*@import url(reset.css);*/
+
+div{
+    background: #7C7D7F;
+    width: 90%;
+    margin: 0 auto;
+}
+.naglowek{
+    background: #F5FF60;
+    height: 120px;
+}
+nav{
+    padding-top: 30px;
+}
+li{
+    display: inline;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.lewa{
+    float: left;
+    background-color: #CC3F38;
+    width: 60%;
+}
+.prawa{
+    float: right;
+    background-color: #B20800;
+    width: 40%;
+    height: 600px;
+}
+.stopka{
+    clear: both;
+    height: 30px;
+    padding-top: 5px;
+    background-color: #AAB231;
+}
+.akapit2{
+    float: left;
+    width: 40%;
+}
+aside{
+    float: right;
+    width: 55%;
+    background-color: #79C0FF;
+    padding-top: 15px;
+    padding-right: 5px
+}
+img{
+    float: left;
+    width: 180px;
+    padding: 5px;
+}
+span{
+    color: white;
+    
+}
+.stopka1{
+    clear: both;
+    background-color: coral;
+}
+h2, h3{
+    background-color: coral;
+}
